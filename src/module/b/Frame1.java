@@ -102,6 +102,7 @@ public class Frame1 extends javax.swing.JFrame {
 
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
+        jTextArea1.setText("12");
         jScrollPane2.setViewportView(jTextArea1);
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
